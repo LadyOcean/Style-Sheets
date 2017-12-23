@@ -1,0 +1,21 @@
+.gbo {height: 550px; width: 500px;}
+
+.gimage {height: 150px; width: 150px; border-radius: 100%; position: absolute;  margin-left: 10px; margin-top: 10px;}
+
+.gba {height: 90px; width: 450px; position: absolute; margin-left: 50px; margin-top: 25px;}
+
+.gbaline1 {height: 30px; width: 350px; border-style: none none dashed none; border-width: 3px; position: relative; padding-left: 95px; padding-right: 5px; padding-top: 20px; line-height: 30px; text-align: right; text-transform: uppercase; font-family: flamenco; font-size: 34px;} 
+
+.gbaline2 {height: 40px; width: 350px; position: relative; margin-top: -2px; padding-left: 95px; padding-right: 5px; line-height: 30px; text-align: right; text-transform: lowercase; font-weight: 100; font-family: alegreya sans; font-size: 24px; font-style: italic;}
+
+.gs {height: 450px; width: 140px; position: absolute; margin-left: 20px; margin-top: 100px;}
+
+.gs1 {height: 230px; width: 135px; position: absolute; padding-top: 70px; line-height: 8px; text-align: center; font-family: alegreya sans; font-size: 20px;}
+
+.gsbb {height: 50px; width: 140px; position: absolute; margin-top: 300px;}
+
+.gs2 {height: 91px; width: 130px; position: absolute; margin-top: 349px; padding: 5px; line-height: 14px; text-align: center; font-family: alegreya sans; font-size: 12px; opacity: 0; transition: 1s ease;}
+
+.gtext {height: 430px; width: 335px; position: absolute; margin-left: 155px; margin-top: 110px; overflow: auto;  padding: 5px; line-height: 14px; text-align: justify; font-family: quicksand; font-size: 12px;}
+
+/*sorted: height - width - border - position - margin - padding - line - text - font - transitions and opacity*/
