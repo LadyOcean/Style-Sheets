@@ -1,0 +1,133 @@
+body{
+background-image:url(https://cutewallpaper.org/21/red-nature-pictures/Ruby-red-forest-wallpaper-Nature-wallpapers-20979.jpg);
+color:#431d1a;}
+
+.navbar-main{
+background-color: #431d1a}
+
+.navbar-main .nav-link .fa{
+color: #d34c31}
+
+.navbar-main .nav-link{
+color: #c55b4a}
+
+.nav-link
+
+.navbar-status{
+background-color: #6f1f1e
+color:#e1d1c5}
+
+.text-light{
+color: #e1d1c5!important}
+
+.navbar-status a{
+color: #e1d1c5}
+
+.dropdown-menu{
+background-color:#e1d1c5}
+
+.text-dark{
+color: #431d1a!important}
+
+.dropdown-divider{
+border-top: 1px solid #a08b8c}
+
+.breadcrumb-nav{
+background-color: #dbb8b3}
+
+a{
+color: #451f1c}
+
+.breadcrumb-item.active{
+color: #451f1c}
+
+.alert-info{
+color: #645354;
+background-color: #dbb7b3;
+border-color: #a08b8c;}
+
+.alert-info .alert-link{
+color: #532e35}
+
+.nav-tabs{
+border-bottom: 1px solid #a08b8c}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+color: #451f1c;
+background-color: #e1d1c5;
+border-color: #a08b8c;}
+
+.table{
+border: 1px solid #451f1c}
+
+.table-striped tbody tr:nth-of-type(odd) {
+background-color: #debeae}
+
+.table th{
+color:
+background-color: #451f1c
+
+.table th a{
+color: #dbb8b3}
+
+.card {
+background: #dbb8b3}
+
+.table .subheader{
+background-color: #a08b8c}
+
+.bg-warning{
+background-color: #da4d40!important}
+
+.bg-primary{
+background-color: #b96964!important}
+
+.bg-danger{
+background-color: #ac2921!important}
+
+.bg-info{
+background-color: #6f1f1e!important}
+
+.bg-success{
+background-color: #e88282!important}
+
+.table .bottom, .table tfoot td{
+color: #451f1c;
+background-color: #a08b8c;}
+
+.form-control {
+color: #6f1f1e;
+background-color: #e1d1c5;
+border: 1px solid #645354}
+
+.btn primary, .btn-success {
+color: #451f1c;
+background-color: #dbb8b3;
+border-bottom-color: #b96964}
+
+.note-toolbar .note-btn{
+background: #dbb8b3;
+border-color: #b96964;}
+
+.btn-light{
+color: #451f1c;}
+
+.note-editor.note-airframe .note-editing-area .note-editable, .note-editor.note-frame .note-editing-area .note-editable{
+background-color: #debeae;
+color: #451f1c;}
+
+.note-editor.note-airframe .note-editing-area .note-codable, .note-editor.note-frame .note-editing-area .note-codable{
+background-color: #654354;
+color: #dbb8b3;}
+
+.note-statusbar{
+background-color: #a08b8c;
+border-top: 1px-solid #645354;}
+
+#sidebar {
+background: #e1d1c5;}
+
+#sidebar .card{
+background-color: #debeae;
+border-bottom: #a08b8c;}}
+
